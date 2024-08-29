@@ -1,1 +1,1 @@
-![Visual](Assets/app visual.jpg)
+![Visual do App](Assets/appvisual.jpg)
